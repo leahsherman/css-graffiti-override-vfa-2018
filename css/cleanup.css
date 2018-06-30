@@ -4,13 +4,11 @@
   display:none;
 }
 
+#wall #tag-2 .tag-1
 
 #wall .parent #tag-4 {
   display:none;
 }
 
-#wall #tag-2 img[alt="tag-2"]{
-  display:none;
-}
 
 /*I successfully got rid of 1 and 4; there are a total of 7.*/
